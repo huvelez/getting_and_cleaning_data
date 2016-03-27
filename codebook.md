@@ -1,10 +1,9 @@
 # Codebook
 
 The following dataset was obtained from:
-==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-==================================================================
+
 Data Set Description
 ==================================================================
 
