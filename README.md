@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The project consists of the following:
+The purpose of this project is to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The project consists of the following:
 
   1) a tidy data set as described below
   2) a script for name run_analysis.R that performs the following analysis:
